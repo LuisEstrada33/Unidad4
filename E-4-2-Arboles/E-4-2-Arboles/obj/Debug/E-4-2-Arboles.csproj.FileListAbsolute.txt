@@ -1,0 +1,7 @@
+c:\users\boyhu\source\repos\E-4-2-Arboles\E-4-2-Arboles\bin\Debug\E-4-2-Arboles.exe.config
+c:\users\boyhu\source\repos\E-4-2-Arboles\E-4-2-Arboles\bin\Debug\E-4-2-Arboles.exe
+c:\users\boyhu\source\repos\E-4-2-Arboles\E-4-2-Arboles\bin\Debug\E-4-2-Arboles.pdb
+c:\users\boyhu\source\repos\E-4-2-Arboles\E-4-2-Arboles\obj\Debug\E-4-2-Arboles.csprojAssemblyReference.cache
+c:\users\boyhu\source\repos\E-4-2-Arboles\E-4-2-Arboles\obj\Debug\E-4-2-Arboles.csproj.CoreCompileInputs.cache
+c:\users\boyhu\source\repos\E-4-2-Arboles\E-4-2-Arboles\obj\Debug\E-4-2-Arboles.exe
+c:\users\boyhu\source\repos\E-4-2-Arboles\E-4-2-Arboles\obj\Debug\E-4-2-Arboles.pdb
